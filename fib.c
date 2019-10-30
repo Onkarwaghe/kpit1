@@ -3,7 +3,7 @@
 int main()
 {
    
-    printf("Enter the number of terms: ");
+    printf("Enter the number of terms: ")
     scanf("%d", &n);
     printf("Fibonacci Series: ");
     for (i = 1; i <= n; ++i)
